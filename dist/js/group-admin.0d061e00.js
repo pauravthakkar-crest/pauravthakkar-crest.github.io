@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["group-admin"],{3530:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("h1",[e._v("Admin")])},r=[],u={beforeRouteEnter:function(e,n,t){"true"!==localStorage.getItem("isAdmin")?t("/"):t()}},i=u,l=t("2877"),a=Object(l["a"])(i,o,r,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=group-admin.0d061e00.js.map
